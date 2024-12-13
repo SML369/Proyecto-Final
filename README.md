@@ -1,2 +1,2 @@
-# Proyecto-Final
+# Análisis de empresa de Telecomunicación
 Consistió en analizar un dataset de CallMeMaybe para brindarle información a los supervisores y las supervisores sobre los operadores menos eficaces. Se consideró que un operador es ineficaz si tiene una gran cantidad de llamadas entrantes perdidas (internas y externas) y un tiempo de espera prolongado para las llamadas entrantes. Además, si se supone que un operador debe realizar llamadas salientes, un número reducido de ellas también será un signo de ineficacia.
